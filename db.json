@@ -1,0 +1,437 @@
+{
+  "users": {
+    "email": "shubang30@gmail.com",
+    "password": "1234"
+  },
+  "themes": {
+    "heading": "Flatastic Business theme",
+    "dummyData": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "dropDown": [
+      "Make Command",
+      "Download CT",
+      "Download Original",
+      "Download Saved"
+    ]
+  },
+  "viewOrders": [
+    {
+      "link": "https://www.google.com/search?q=iv+future&oq=iv+&aqs=chrome.4.69i57j69i60l3j69i59j0.4925j0j7&sourceid=chrome&ie=UTF-8",
+      "date": "22/07/2019",
+      "orderId": "#CFZ8493ar",
+      "status": "Pending",
+      "customer": "Carter",
+      "stTotal": 34234,
+      "billing": "New Delhi",
+      "shipping": "New Delhi",
+      "order": "order is pending"
+    },
+    {
+      "link": "https://www.google.com/search?q=iv+future&oq=iv+&aqs=chrome.4.69i57j69i60l3j69i59j0.4925j0j7&sourceid=chrome&ie=UTF-8",
+      "date": "22/07/2019",
+      "orderId": "#CFZ8494ar",
+      "status": "Failed",
+      "customer": "Jitendra",
+      "stTotal": 2726,
+      "billing": "Romania",
+      "shipping": "Romania",
+      "order": "order is failed"
+    },
+    {
+      "link": "https://www.google.com/search?q=iv+future&oq=iv+&aqs=chrome.4.69i57j69i60l3j69i59j0.4925j0j7&sourceid=chrome&ie=UTF-8",
+      "date": "22/07/2019",
+      "orderId": "#CFZ8495ar",
+      "status": "Successful",
+      "customer": "Smith",
+      "stTotal": 73786,
+      "billing": "Bangalore",
+      "shipping": "Bangalore",
+      "order": "order is successfully"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "image": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/sheep-5.jpg",
+      "sku": "SNT25",
+      "stock": 16,
+      "name": "Donald",
+      "price": 78
+    },
+    {
+      "id": "2",
+      "image": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/sheep-5.jpg",
+      "sku": "SNT25",
+      "stock": 32,
+      "name": "Smith",
+      "price": 85
+    },
+    {
+      "id": "3",
+      "image": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/sheep-5.jpg",
+      "sku": "SNT25",
+      "stock": 16,
+      "name": "Enrique",
+      "price": 78
+    },
+    {
+      "id": "4",
+      "image": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/sheep-5.jpg",
+      "sku": "SNT25",
+      "stock": 32,
+      "name": "Bruce",
+      "price": 85
+    },
+    {
+      "id": "5",
+      "image": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/sheep-5.jpg",
+      "sku": "SNT25",
+      "stock": 32,
+      "name": "Tony",
+      "price": 85
+    }
+  ],
+  "dataToStore": [
+    {
+      "id": "1",
+      "brandImage": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/sheep-5.jpg",
+      "storeName": "Cropp",
+      "location": "United Kingdom 46 Park Avenue WIGAN WN22 5IU",
+      "type": "Apparel"
+    },
+    {
+      "id": "2",
+      "brandImage": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/sheep-5.jpg",
+      "storeName": "Reserved",
+      "location": "United Kingdom 46 Park Avenue WIGAN WN22 5IU",
+      "type": "Shoes"
+    },
+    {
+      "id": "3",
+      "brandImage": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/sheep-5.jpg",
+      "storeName": "Brand House",
+      "location": "United Kingdom 46 Park Avenue WIGAN WN22 5IU",
+      "type": "Sports wear"
+    }
+  ],
+  "brands": [
+    {
+      "name": "Nike",
+      "logo": "nike.png",
+      "description": "Nike, Inc. is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services. The company is headquartered near Beaverton, Oregon, in the Portland metropolitan area",
+      "products": 1378,
+      "status": "Enabled"
+    },
+    {
+      "name": "Levis",
+      "logo": "levis.png",
+      "description": "Levi Strauss & Co. is an American clothing company known worldwide for its Levi's brand of denim jeans. It was founded in May 1853 when German immigrant Levi Strauss moved from Buttenheim, Bavaria, to San Francisco, California to open a west coast branch of his brothers' New York dry goods business",
+      "products": 1267,
+      "status": "Enabled"
+    },
+    {
+      "name": "Adidas",
+      "logo": "adidas.png",
+      "description": "Adidas AG is a multinational corporation, founded and headquartered in Herzogenaurach, Germany, that designs and manufactures shoes, clothing and accessories. It is the largest sportswear manufacturer in Europe, and the second largest in the world, after Nike.",
+      "products": "1389",
+      "status": "Disabled"
+    },
+    {
+      "name": "H&M",
+      "logo": "hm.png",
+      "description": "Hennes & Mauritz AB is a Swedish multinational clothing-retail company known for its fast-fashion clothing for men, women, teenagers and children. H&M and its associated companies operate in 62 countries with over 4,500 stores and as of 2015 employed around 132,000 people.",
+      "products": "13782",
+      "status": "Disabled"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "logo": "starbucks.png",
+      "description": "Starbucks Corporation is an American coffee company and coffeehouse chain. Starbucks was founded in Seattle, Washington in 1971. As of early 2019, the company operates over 30,000 locations worldwide",
+      "products": "1389",
+      "status": "Enabled"
+    }
+  ],
+  "editOrder": [
+    {
+      "id": "1",
+      "image": "hm.jpeg",
+      "unallocatedPrdt": "It is a long established fact that a reader",
+      "qty": "3",
+      "items": "It is a long established fact that a reader"
+    },
+    {
+      "name": "Levis",
+      "logo": "levis.png",
+      "description": "Levi Strauss & Co. is an American clothing company known worldwide for its Levi's brand of denim jeans. It was founded in May 1853 when German immigrant Levi Strauss moved from Buttenheim, Bavaria, to San Francisco, California to open a west coast branch of his brothers' New York dry goods business",
+      "products": 1267,
+      "status": "Enabled"
+    },
+    {
+      "name": "Adidas",
+      "logo": "adidas.png",
+      "description": "Adidas AG is a multinational corporation, founded and headquartered in Herzogenaurach, Germany, that designs and manufactures shoes, clothing and accessories. It is the largest sportswear manufacturer in Europe, and the second largest in the world, after Nike.",
+      "products": "1389",
+      "status": "Disabled"
+    },
+    {
+      "name": "H&M",
+      "logo": "hm.png",
+      "description": "Hennes & Mauritz AB is a Swedish multinational clothing-retail company known for its fast-fashion clothing for men, women, teenagers and children. H&M and its associated companies operate in 62 countries with over 4,500 stores and as of 2015 employed around 132,000 people.",
+      "products": "13782",
+      "status": "Disabled"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "logo": "starbucks.png",
+      "description": "Starbucks Corporation is an American coffee company and coffeehouse chain. Starbucks was founded in Seattle, Washington in 1971. As of early 2019, the company operates over 30,000 locations worldwide",
+      "products": "1389",
+      "status": "Enabled"
+    }
+  ],
+  "country": [
+    "India",
+    "Russia",
+    "Romania"
+  ],
+  "Currencies": [
+    "Usd",
+    "Eur",
+    "Aud",
+    "Cad",
+    "Gbp"
+  ],
+  "group": [
+    "abc",
+    "xyz"
+  ],
+  "productsItem": [
+    {
+      "products": "https://pixabay.com/photos/adult-alone-bible-denim-pants-1869621/",
+      "name": "striped gangsta",
+      "shipped": "849 the cresent",
+      "quantity": "3",
+      "itemPrice": "59$",
+      "total": "178$"
+    },
+    {
+      "products": "https://pixabay.com/photos/adult-alone-bible-denim-pants-1869621/",
+      "name": "striped gangsta",
+      "shipped": "849 the cresent",
+      "quantity": "3",
+      "itemPrice": "59$",
+      "total": "178$"
+    },
+    {
+      "products": "https://pixabay.com/photos/adult-alone-bible-denim-pants-1869621/",
+      "name": "striped gangsta",
+      "shipped": "849 the cresent",
+      "quantity": "3",
+      "itemPrice": "59$",
+      "total": "178$"
+    }
+  ],
+  "city": [
+    "New Delhi",
+    "Faridabad"
+  ],
+  "newCustomer": [
+    {
+      "name": "Priya",
+      "surname": "Verma",
+      "email": "priya17verma@gmail.com",
+      "address": "c-209",
+      "city": "New Delhi",
+      "region": "kalkaji",
+      "postalCode": "121008",
+      "phone": "9878787655",
+      "rememberMe": "on",
+      "id": "0iMiVMQ"
+    },
+    {
+      "name": "Rahul",
+      "surname": "Bagla",
+      "email": "rahul@gmail.com",
+      "address": "c-760",
+      "city": "Faridabad",
+      "region": "Govindpuri",
+      "postalCode": "121334",
+      "phone": "9878654357",
+      "rememberMe": "on",
+      "id": "Lfc9oZs"
+    },
+    {
+      "name": "sandeep",
+      "surname": "kumar",
+      "email": "sandeepkumar13009@gmail.com",
+      "address": "2131/1 prem nagar road shadipur",
+      "city": "New Delhi",
+      "region": "Delhi",
+      "postalCode": "110008",
+      "phone": "8650888613",
+      "rememberMe": "on",
+      "id": "AmdoAAI"
+    }
+  ],
+  "createProduct": [
+    {
+      "orderNo": "11",
+      "image": "image",
+      "title": "Green T-shirt with badass cartoon design",
+      "price": "$ 29.99",
+      "qty": "24",
+      "visible": "Visible"
+    },
+    {
+      "orderNo": "12",
+      "image": "image",
+      "title": "Green T-shirt with badass cartoon design",
+      "price": "$ 14.99",
+      "qty": "12",
+      "visible": "Hidden"
+    }
+  ],
+
+  "blog": [
+    { 
+      "title":"Fashion Tips and tricks for business and showbiz",
+      "author":"Daniel",
+      "pubes":"Fashion"
+    },
+    { 
+      "title":"Fashion Tips and tricks for business and showbiz",
+      "author":"Darwin",
+      "pubes":"Shopping"
+    },
+    {
+      "title":"Fashion Tips and tricks for business and showbiz",
+      "author":"Abdul",
+      "pubes":"Travel"
+    },
+    {
+      "title":"Fashion Tips and tricks for business and showbiz",
+      "author":"Andrew",
+      "pubes":"Fashion"
+    }
+  ],
+  "category":[
+    {
+    "id":1,
+    "name":"Striped gangsta sheet pants,casual wear,red black,XL",
+    "products":"SN25",
+    "prodInSc":"32",
+    "visible":"Visible",
+    "customer":"Donald",
+    "actions":"..."
+    },
+    {
+    "id":2,
+    "name":"Striped gangsta sheet pants,casual wear,red black,XL",
+    "products":"SN25",
+    "prodInSc":"32",
+    "customer":"Donald",
+    "visible" :"Not visible",
+    "actions":"..."
+    
+    },
+    
+    {
+    "id":3,
+    "name":"Striped gangsta sheet pants,casual wear,red black,XL",
+    "products":"SN25",
+    "prodInSc":"32",
+    "customer":"Donald",
+    "visible" :"Visible",
+    "actions":"..."
+    
+    },
+    {
+    "id":4,
+    "name":"Striped gangsta sheet pants,casual wear,red black,XL",
+    "products":"SN25",
+    "prodInSc":"32",
+    "customer":"Donald",
+    "visible" :"Visible",
+    "actions":"..."
+    
+    },
+    {
+    "id":5,
+    "name":"Striped gangsta sheet pants,casual wear,red black,XL",
+    "products":"SN25",
+    "prodInSc":"32",
+    "customer":"Donald",
+    "visible" :"Visible",
+    "actions":"..."
+    
+    },
+    {
+    "id":6,
+    "name":"Striped gangsta sheet pants,casual wear,red black,XL",
+    "products":"SN25",
+    "prodInSc":"32",
+    "customer":"Donald",
+    "visible" :"Not visible",
+    "actions":"..."
+    
+    },
+    {
+    "id":7,
+    "name":"Striped gangsta sheet pants,casual wear,red black,XL",
+    "products":"SN25",
+    "prodInSc":"32",
+    "customer":"Donald",
+    "visible" :"Visible",
+    "actions":"..."
+    
+    }
+    ],
+    "stores":[
+      {
+        "img_src":"/images/brand1.png",
+        "name":"Cropp",
+        "domain":"www.cropp.com",
+        "type":"Trinity"
+      },
+      {
+        "img_src":"/images/brand1.png",
+        "name":"Reserved",
+        "domain":"www.reserved.com",
+        "type":"Trinity"
+      },
+      {
+        "img_src":"/images/brand1.png",
+        "name":"Brand House",
+        "domain":"www.brand-house.com",
+        "type":"BBQ"
+      },
+      {
+        "img_src":"/images/brand1.png",
+        "name":"Sinsay",
+        "domain":"www.sinsay.com",
+        "type":"Trinity"
+      },
+      {
+        "img_src":"/images/brand1.png",
+        "name":"Orsay",
+        "domain":"www.orsay.com",
+        "type":"Trinity"
+      },
+      {
+        "img_src":"/images/brand1.png",
+        "name":"Sport Vision",
+        "domain":"www.sport-vision.com",
+        "type":"Trinity"
+      },
+      {
+        "img_src":"/images/brand1.png",
+        "name":"Buzz",
+        "domain":"www.buzz.com",
+        "type":"BBQ"
+      },
+      {
+        "img_src":"/images/brand1.png",
+        "name":"NewYorker",
+        "domain":"www.newyorker.com",
+        "type":"Trinity"
+      }
+    ]
+}
